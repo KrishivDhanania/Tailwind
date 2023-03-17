@@ -82,10 +82,7 @@ h1{
 color: antiquewhite;
 }
 #one{
-background-image:  url("background.jpg");
-background-size: 1000px 500px;
-background-repeat: no-repeat;
-background-color: black;
+  background-color: rgb(100, 100, 231);
 
 }
 
@@ -157,4 +154,7 @@ align-items: center;
 
 .Nav_desk a {
 text-decoration: none !important;
+}
+body{
+  background-color: rgb(100, 100, 231);
 }
