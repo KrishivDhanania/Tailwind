@@ -158,3 +158,9 @@ text-decoration: none !important;
 body{
   background-color: rgb(100, 100, 231);
 }
+.Footer_div{
+width: 50%;
+float: left;
+margin-right: auto;
+margin-left: auto;
+}
